@@ -13,6 +13,7 @@ flow:
   results:
     - SUCCESS
     - FAILURE_1
+    - SUCCESS_1
 extensions:
   graph:
     steps:
@@ -35,3 +36,7 @@ extensions:
         6be15c5e-aa73-d8a5-1376-a1551a04d028:
           x: 120
           'y': 120
+      SUCCESS_1:
+        44d8cc63-a190-0240-996b-f00fb526fd3d:
+          x: 600
+          'y': 40
