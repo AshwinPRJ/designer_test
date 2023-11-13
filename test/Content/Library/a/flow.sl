@@ -30,8 +30,8 @@ extensions:
     results:
       SUCCESS:
         97deb8ce-13ba-b9c4-90f2-62bc0c8983ae:
-          x: 360
-          'y': 0
+          x: 640
+          'y': 360
       FAILURE_1:
         6be15c5e-aa73-d8a5-1376-a1551a04d028:
           x: 120
