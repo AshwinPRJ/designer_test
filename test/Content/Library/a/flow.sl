@@ -38,5 +38,5 @@ extensions:
           'y': 120
       FAILURE:
         f62f8939-4d53-1c70-798b-3bca3f0fad90:
-          x: 320
-          'y': 280
+          x: 1000
+          'y': 80
