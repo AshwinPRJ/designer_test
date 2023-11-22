@@ -2,7 +2,7 @@ namespace: a
 flow:
   name: flow
   workflow:
-    - random_number_generator_2:
+    - random_number_generator_2aasdf:
         do:
           io.cloudslang.base.math.random_number_generator:
             - min: '1'
@@ -16,7 +16,7 @@ flow:
 extensions:
   graph:
     steps:
-      random_number_generator_2:
+      random_number_generator_2aasdf:
         x: 240
         'y': 120
         navigate:
