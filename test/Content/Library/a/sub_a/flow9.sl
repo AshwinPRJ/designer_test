@@ -2,7 +2,7 @@ namespace: a.sub_a
 flow:
   name: flow9
   workflow:
-    - test1:
+    - sub_9_admin:
         do:
           io.cloudslang.base.math.random_number_generator:
             - min: '1'
@@ -16,7 +16,7 @@ flow:
 extensions:
   graph:
     steps:
-      test1:
+      sub_9_admin:
         x: 340
         'y': 180
         navigate:
