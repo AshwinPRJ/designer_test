@@ -29,8 +29,8 @@ extensions:
     results:
       SUCCESS:
         735367fd-f761-9d0f-aab9-1be942e4b93f:
-          x: 540
-          'y': 140
+          x: 560
+          'y': 160
       FAILURE_1:
         506563c5-3d3d-7933-0f79-268531f1ca8c:
           x: 160
